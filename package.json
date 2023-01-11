@@ -1,0 +1,16 @@
+{
+  "name": "caisse-0-backend",
+  "version": "1.0.0",
+  "description": "Back-end de l'application Caisse 0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Comptabilite",
+    "Caisse",
+    "Gestion"
+  ],
+  "author": "Nguetseng Stephane",
+  "license": "ISC"
+}
